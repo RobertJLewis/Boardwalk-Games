@@ -65,6 +65,10 @@ h2 {
     color: white;
 }
 
+.custom-button-filled {
+    border-radius: 0;
+}
+
 /* Navbar */
 
 #navbar {
@@ -135,6 +139,8 @@ h2 {
 #contact .table-dark• {
     background-color: transparent; 
 }
+
+
 
 
 /* grid visualisation CSS for testing */
